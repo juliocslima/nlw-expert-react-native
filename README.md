@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to NLW Expert React Native project 👋</h1>
+<h1 align="center">Welcome to NLW Expert React Native Orders project 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg" />
@@ -14,11 +14,11 @@
   </a>
 </p>
 
-# NLW Expert React Native
+# NLW Expert React Native - Orders
 
 > Este projeto foi resultado do evento NLW Expert React Native promovido pela Rocketseat, onde criamos uma aplicativo de pedidos para uma lanchonete
 
-<img src="Thumbnail.png" alt="NLW Expert Notes"/>
+<img src="Thumbnail.png" alt="NLW Expert React Native - Orders"/>
 
 ### 🏠 [Homepage](https://github.com/juliocslima/nlw-expert-react-native)
 
